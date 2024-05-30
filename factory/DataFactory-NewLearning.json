@@ -1,0 +1,9 @@
+{
+	"name": "DataFactory-NewLearning",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8051c534-6736-4456-9f9d-f150faf079d9",
+		"tenantId": "0fc1f19a-27a0-4ffd-8d97-04f38cdbdba4"
+	}
+}
